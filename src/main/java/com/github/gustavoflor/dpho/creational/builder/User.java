@@ -1,4 +1,4 @@
-package com.github.gustavoflor.dpho.creational.builder.user;
+package com.github.gustavoflor.dpho.creational.builder;
 
 import java.util.Collection;
 

@@ -1,6 +1,5 @@
 package com.github.gustavoflor.dpho.creational.builder;
 
-import com.github.gustavoflor.dpho.creational.builder.user.UserDirector;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -9,7 +8,7 @@ import java.util.List;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-class ClientTest {
+class BuilderTest {
 
     private UserDirector userDirector;
 
